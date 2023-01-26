@@ -24,8 +24,6 @@
 #ifndef NETIO_H
 #define NETIO_H
 
-#include <sys/socket.h>
-
 // Describes a networking service (group of connections)
 
 struct aircraft;
